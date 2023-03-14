@@ -85,6 +85,10 @@ main ul li a {
 
 }
 
+footer {
+  margin-bottom: 8rem;
+}
+
 footer ul {
   display: flex;
   align-items: center;
